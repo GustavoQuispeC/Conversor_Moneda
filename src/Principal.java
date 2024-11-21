@@ -33,7 +33,7 @@ public class Principal {
 
             if (opcion == 7) {
                 salir = true;
-                System.out.println("Gracias por usar el conversor. ¡Adiós!");
+                System.out.println("Gracias por usar el conversor. ¡Hasta pronto!");
                 break;
             }
 
